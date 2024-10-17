@@ -14,7 +14,7 @@ In this article, you learn how to use the .NET Aspire Ollama hosting integration
 
 ## Hosting integration
 
-To model the Ollama server, install the [📦 Aspire.CommunityToolkit.Hosting.Ollama](https://dev.azure.com/dotnet/CommunityToolkit/_artifacts/feed/CommunityToolkit-MainLatest/NuGet/Aspire.CommunityToolkit.Hosting.Ollama) NuGet package in the [app host](xref:aspire/app-host) project.
+To model the Ollama server, install the [📦 Aspire.CommunityToolkit.Hosting.Ollama](https://dev.azure.com/dotnet/CommunityToolkit/_artifacts/feed/CommunityToolkit-MainLatest/NuGet/Aspire.CommunityToolkit.Hosting.Ollama) NuGet package in the [app host](xref:dotnet/aspire/app-host) project.
 
 ### [.NET CLI](#tab/dotnet-cli)
 
